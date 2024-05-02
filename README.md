@@ -9,6 +9,7 @@ This project focuses on analyzing soccer statistics from UEFA's top 7 leagues us
 - Created interactive sheets in Tableau to better visualize player and team performances, including all team's highest contributers, overperformers, underperfomers, etc.
  - My Own Personal Tableau Visualizations can be found [here](https://public.tableau.com/app/profile/arkadiuz.mercado/vizzes).
 
+NOTES:
 - I Plan to Keep working on and Improving this project. Any Feedback will be greatly appreciated.
 - Future Additions include, more leagues, implementation of NumPy arrays/analysis. I also plan to do much more analysis with SQL Queries, More In-Depth Tableau Dashboards, cloud work, etc.
   
